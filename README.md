@@ -1,2 +1,3 @@
 # Python Live Project
 This project consisted of a two-week coding sprint as part of The Tech Academy's Python course.  It is designed to simulate a real-world team coding experience by giving students the opportunity to participate in an Agile/Scrum sprint consisting of individually assigned User Stories that contibuted to the main project branch.  During this sprint, I used my knowledge of the Django framework to design and deploy a custom webapp that is used to track upcoming concerts.  It features CRUD functionality and leverages Django's model-template-view architechture to produce a compact, modular application.  Through this project I gained valuable exposure to the Agile philosophy and experienced how Scrum can be employed to facilitate software development.  
+
